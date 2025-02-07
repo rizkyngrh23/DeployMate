@@ -56,8 +56,23 @@ node_modules
 deploymate
 ```
 
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request on GitHub.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Security
 
 - Uses minimal dependencies for better maintenance and security.
 - Ensure your deployment tokens and secrets are stored securely in the `.env` file.
 - The names of the environment variables can be specified in the `deploy.config.json` file, allowing flexibility for users to name their environment variables as they prefer.
+
+## Links
+
+- [Repository](https://github.com/rizkyngrh23/DeployMate)
+- [Issues](https://github.com/rizkyngrh23/DeployMate/issues)
+- [Homepage](https://github.com/rizkyngrh23/DeployMate#readme)
+- [npm Package](https://www.npmjs.com/package/deploymate)
