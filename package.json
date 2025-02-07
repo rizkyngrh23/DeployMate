@@ -1,0 +1,35 @@
+{
+  "name": "deploymate",
+  "version": "1.0.0",
+  "description": "A zero-config CI/CD tool to automatically deploy Node.js apps to Vercel, Netlify, or DigitalOcean with a single command.",
+  "main": "AutoDeploy.js",
+  "type": "module",
+  "scripts": {
+    "start": "node AutoDeploy.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizkyngrh23/DeployMate.git"
+  },
+  "keywords": [
+    "ci",
+    "cd",
+    "deployment",
+    "vercel",
+    "netlify",
+    "digitalocean"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rizkyngrh23/DeployMate/issues"
+  },
+  "homepage": "https://github.com/rizkyngrh23/DeployMate#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "fetch-mock": "^9.11.0"
+  }
+}

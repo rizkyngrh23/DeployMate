@@ -1,0 +1,8 @@
+{
+    "provider": "vercel",
+    "envVariables": {
+        "vercel": "VERCEL_TOKEN",
+        "netlify": "NETLIFY_TOKEN",
+        "digitalocean": "DIGITALOCEAN_TOKEN"
+    }
+}
